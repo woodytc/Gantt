@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanttProject", "GanttProject\GanttProject.csproj", "{F63845DB-5CD7-47F0-B421-4D95F82D33D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanttRepository", "GanttRepository\GanttRepository.csproj", "{971FFE3C-52F0-4CCE-9C69-4DE9487CD4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63845DB-5CD7-47F0-B421-4D95F82D33D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63845DB-5CD7-47F0-B421-4D95F82D33D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63845DB-5CD7-47F0-B421-4D95F82D33D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63845DB-5CD7-47F0-B421-4D95F82D33D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971FFE3C-52F0-4CCE-9C69-4DE9487CD4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971FFE3C-52F0-4CCE-9C69-4DE9487CD4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971FFE3C-52F0-4CCE-9C69-4DE9487CD4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971FFE3C-52F0-4CCE-9C69-4DE9487CD4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
